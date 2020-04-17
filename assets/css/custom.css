@@ -1,12 +1,4 @@
 h1
 {
-    color: red;
-}
-
-.navbar-expand-lg {
-    -ms-flex-flow: row nowrap;
-    flex-flow: row nowrap;
-    -ms-flex-pack: start;
-    justify-content: flex-start;
-    background-color: #f8f2d5;
+    color: grey;
 }

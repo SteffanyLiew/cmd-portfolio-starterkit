@@ -2,4 +2,29 @@ Title: Me Time - product
 
 ----
 
-Text: 
+Roles: 
+
+----
+
+Duration: 
+
+----
+
+Clients: 
+
+----
+
+Deliverables: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Me Time ",
+        "id": "_09gm3sw00",
+        "type": "h1"
+    }
+]
