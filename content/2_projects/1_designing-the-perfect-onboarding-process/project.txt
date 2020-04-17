@@ -1,4 +1,4 @@
-Title: Designing the perfect onboarding process
+Title: AD app: Draw The News - Concept
 
 ----
 
@@ -10,7 +10,7 @@ Duration: September 2019 - Januari 2020
 
 ----
 
-Clients: NRC
+Clients: AD
 
 ----
 
@@ -23,9 +23,15 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Heading 1",
+        "content": "AD app - Draw The News",
         "id": "_8mgii7n73",
         "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_61e9n0tm0",
+        "type": "paragraph"
     },
     {
         "attrs": [],
@@ -103,10 +109,9 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
             "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.7777777777777777,
+            "ratio": 1.77777777777777767909128669998608529567718505859375,
             "caption": "Caption yeah!"
         },
         "content": "",

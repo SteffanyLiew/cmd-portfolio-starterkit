@@ -2,8 +2,8 @@ Title: Home
 
 ----
 
-Introductiontitle: Hello! I'm Steffany Liew
+Introductiontitle: 
 
 ----
 
-Introductiontext: Currently I am looking for an internship where I can develop my skills as a third year Communication and Multimediadesign student.
+Introductiontext: 

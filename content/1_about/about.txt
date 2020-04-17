@@ -7,13 +7,193 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
-        "id": "_g1nXSBng0",
+        "content": "Hi! This is me",
+        "id": "_sg37ha9on",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_0k4yeurnm",
+        "type": "hr"
+    },
+    {
+        "attrs": [],
+        "content": "Hi I\u2019m Steffany Liew, second year student studying Communication and Multimedia Design at Hogeschool Rotterdam.",
+        "id": "_qk5e81t9p",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ibmdflxo0",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.",
+        "content": "In my free time I like to socialize and create video's with new contents. I know what I like and what I want in different things, but I'm always open to learn new stuff. I learn everything until I understand it and do my best for it for the best result.",
+        "id": "_orxd69nqt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>At school as a CMD'er I design interactive products, I do this through my creative expressions. Besides school I like photography and I like to make movies. My goal is to be able to develop myself and to increase my creativity.",
+        "id": "_nmr1anca1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_28gbr39ax",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Why I want to become a designer? I want to show people my different ways of thinking and creating stuff, because there is no good way or bad ways to show people the things you\u2019ve made off. Learning how to design things with different applications is my first step to success.",
+        "id": "_3klyzsphk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u200b",
+        "id": "_5MJVzP65W",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "But first things first there are things I want to learn more about or improve myself throughout the years. I want to:",
+        "id": "_htwf8vmdn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Be more creative in graphic design;",
+        "id": "_b87c6rvcz",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Programming applications;",
+        "id": "_4z6x7hnke",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Learn and create different contents.",
+        "id": "_mjkcujkue",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "\u200b",
+        "id": "_d4LxNjr3w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "My weaknesses:",
+        "id": "_aie5xz1ad",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Presentations;",
+        "id": "_0fzk2ibo1",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Writing an essay;",
+        "id": "_n3o1vmhuw",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Creating contents.",
+        "id": "_nfns4ekib",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "\u200b",
+        "id": "_T5IakPXRU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "My strengths:",
+        "id": "_cuot7noop",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Empathize with people;",
+        "id": "_zcdddu53n",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Visualise things;",
+        "id": "_2y3xcy61u",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Good collaboration in work with people;",
+        "id": "_4mx95q99r",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Working in a group but also alone.",
+        "id": "_l61h0uvt2",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "\u200b",
+        "id": "_Aa4TvozlO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Skills:",
+        "id": "_46jd24j9w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Adobe Illustrator; Adobe Photoshop;",
+        "id": "_E6JT4sBiJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Adobe InDesign; Sketch; Movie Maker; Sony Vegas Pro.",
+        "id": "_5UbapIvWq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u200b",
+        "id": "_CzKsFGgGv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u200b",
+        "id": "_pyjj18oja",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://e14eafb3-5fba-46cd-b3dc-814a97209a30.filesusr.com/ugd/f5bab2_ce7ac252e5464b359e6cac54f7a6e8f6.pdf\"><br></a>",
+        "id": "_gorj2KQTJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
         "id": "_uRKO7ni0o",
         "type": "paragraph"
     }

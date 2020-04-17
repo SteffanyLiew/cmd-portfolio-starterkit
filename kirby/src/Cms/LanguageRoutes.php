@@ -40,7 +40,7 @@ class LanguageRoutes
 
                     // jump through to the fallback if nothing
                     // can be found for this language
-                    $this->next();
+                    this->next();
                 }
             ];
         }
